@@ -1,0 +1,15 @@
+/Users/alicelin/Quadax/Mastermind/bin/Debug/net6.0/Mastermind
+/Users/alicelin/Quadax/Mastermind/bin/Debug/net6.0/Mastermind.deps.json
+/Users/alicelin/Quadax/Mastermind/bin/Debug/net6.0/Mastermind.runtimeconfig.json
+/Users/alicelin/Quadax/Mastermind/bin/Debug/net6.0/Mastermind.dll
+/Users/alicelin/Quadax/Mastermind/bin/Debug/net6.0/Mastermind.pdb
+/Users/alicelin/Quadax/Mastermind/obj/Debug/net6.0/Mastermind.csproj.AssemblyReference.cache
+/Users/alicelin/Quadax/Mastermind/obj/Debug/net6.0/Mastermind.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alicelin/Quadax/Mastermind/obj/Debug/net6.0/Mastermind.AssemblyInfoInputs.cache
+/Users/alicelin/Quadax/Mastermind/obj/Debug/net6.0/Mastermind.AssemblyInfo.cs
+/Users/alicelin/Quadax/Mastermind/obj/Debug/net6.0/Mastermind.csproj.CoreCompileInputs.cache
+/Users/alicelin/Quadax/Mastermind/obj/Debug/net6.0/Mastermind.dll
+/Users/alicelin/Quadax/Mastermind/obj/Debug/net6.0/refint/Mastermind.dll
+/Users/alicelin/Quadax/Mastermind/obj/Debug/net6.0/Mastermind.pdb
+/Users/alicelin/Quadax/Mastermind/obj/Debug/net6.0/Mastermind.genruntimeconfig.cache
+/Users/alicelin/Quadax/Mastermind/obj/Debug/net6.0/ref/Mastermind.dll
